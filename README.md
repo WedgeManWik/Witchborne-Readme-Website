@@ -35,7 +35,7 @@ And as for the cannons, they Aim ahead of the player if in line of sight and rot
 
 /////////////////////////////
 
-![Normal Level](https://github.com/WedgeManWik/Witchborne-Readme-Website/blob/main/NormalLevel.PNG?raw=true)
+![Normal Level](https://github.com/WedgeManWik/Witchborne-Readme-Website/blob/main/NormalLevel.png)
 
 I created this game for one of my University assignments. We were learning and getting introduced to using Unity, which I found to be a very interesting learning experience. With the various tools provided by Unity, help from lecturers and some video tutorials I managed to create this game in 11 weeks.
 
