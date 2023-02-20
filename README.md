@@ -25,7 +25,7 @@ It is located in the sky, has multiple paths the player can take, as well as hid
 Coming up with the idea for this map was very difficult as I had no clue what a light level would really include, but I think I chose the right direction for it, and it looks amazing.
 
 Ice Level
-![Normal Level](https://github.com/WedgeManWik/Witchborne-Readme-Website/blob/main/IcelLevel.png)
+![Ice Level](https://github.com/WedgeManWik/Witchborne-Readme-Website/blob/main/IcelLevel.png)
 The ice level is the latest level which I created, and is definitely my most proud level. It has the most paths and sub-routes the player can take out of all the levels, it has traps unique to the level (falling icicles) and just an awesome aesthetic. And also a unique door which is opened by shooting an icicle attached to a chain.
 It has a hidden cave which the player can go down as an easter egg.
 
