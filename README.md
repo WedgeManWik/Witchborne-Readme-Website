@@ -43,8 +43,10 @@ To make the movement of the player seem faster and more fluid, I added animation
 
 Another thing which I implemented was camera animations – the camera rotates whenever the player wall runs, and increases its field of view depending on how fast the player is going. This makes it seem like the player is actually going faster than they are.
 The code which I’ve written, makes it so the animations are smooth, so that the player’s FOV doesn’t just suddenly jump up to its max, the camera doesn’t just suddenly rotate 10 degrees when the player is wall running and the player’s hand doesn’t just teleport up and down.
-Shooting mechanic for crossbow and cannons
-for the shooting of the crossbow, Instead of firing at the same trajectory each time, the arrow shot from the crossbow will fly in an arc trajectory and go to wherever the player’s cursor is pointing to.
+
+## Shooting mechanic for crossbow and cannons
+
+For the shooting of the crossbow, Instead of firing at the same trajectory each time, the arrow shot from the crossbow will fly in an arc trajectory and go to wherever the player’s cursor is pointing to.
 And as for the cannons, they Aim ahead of the player if in line of sight and rotate themselves towards the player to shoot. The cannon balls are also shot in an arc trajectory.
 
 
